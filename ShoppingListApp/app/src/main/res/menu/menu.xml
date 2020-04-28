@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/list"
+        android:title="@string/lists"
+        app:showAsAction="never">
+        <menu>
+
+            <item
+                android:id="@+id/list1"
+                android:title="@string/list1"
+                />
+            <item
+                android:id="@+id/list2"
+                android:title="@string/list2"
+                />
+            <item
+                android:id="@+id/list3"
+                android:title="@string/list3"
+                />
+            <item
+                android:id="@+id/list4"
+                android:title="@string/list4"
+                />
+            <item
+                android:id="@+id/list5"
+                android:title="@string/list5"
+                />
+            <item
+                android:id="@+id/newListItem"
+                android:title="Új termék hozzáadása"
+                />
+            <item
+                android:id="@+id/listItemMod"
+                android:title="Listában módosítás"
+                />
+            <item
+                android:id="@+id/listItemDelete"
+                android:title="Listából való törlés"
+                />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item"
+        android:title="@string/items"
+        app:showAsAction="never">
+        <menu>
+
+            <item
+                android:id="@+id/newItem"
+                android:title="@string/newItem"
+                />
+            <item
+                android:id="@+id/itemMod"
+                android:title="@string/itemMod"
+                />
+            <item
+                android:id="@+id/deleteItem"
+                android:title="@string/deleteItem"
+                />
+
+        </menu>
+    </item>
+</menu>

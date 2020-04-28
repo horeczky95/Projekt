@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="lists">Bevásárló Listák</string>
+    <string name="list1">Bevásárló Lista 1</string>
+    <string name="list2">Bevásárló Lista 2</string>
+    <string name="list3">Bevásárló Lista 3</string>
+    <string name="list4">Bevásárló Lista 4</string>
+    <string name="list5">Bevásárló Lista 5</string>
+    <string name="items">Termék kezelés</string>
+    <string name="newItem">Új termék</string>
+    <string name="itemMod">Termék módosítás</string>
+    <string name="nameMod">Név módosítás</string>
+    <string name="priceMod">Ár módosítás</string>
+    <string name="pieceMod">Darab szám módosítás</string>
+    <string name="listView">Lista megjelenítés</string>
+    <string name="deleteItem">Termék törlése</string>
+    <string name="delete">Termék törlés</string>
+    <string name="listMod">Lista módosítása</string>
+    <string name="listChoise">Add meg a lista számát</string>
+    <string name="barcode">Vonalkód</string>
+    <string name="itemName">Termék neve</string>
+    <string name="price">Egység ár</string>
+    <string name="piece">Darab szám</string>
+    <string name="add1">Termék hozzáadása a listához</string>
+    <string name="add2">Termék hozzáadása az adatbázishoz</string>
+    <string name="listNumber">A lista száma</string>
+    <string name="allPrice">Fizetendő összeg</string>
+</resources>
